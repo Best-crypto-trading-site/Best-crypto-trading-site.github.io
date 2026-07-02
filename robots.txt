@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://best-crypto-trading-site.github.io/sitemap.xml
